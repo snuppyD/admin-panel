@@ -1,0 +1,22 @@
+# macOS
+.idea
+.DS_Store
+
+# node_modules (frontend & backend)
+frontend/node_modules/
+backend/node_modules/
+
+frontend/.DS_Store
+backend/.DS_Store
+
+frontend/public/assets/react-app-env.d.ts
+
+# build / dist
+frontend/dist/
+backend/dist/
+
+# environment files
+frontend/.env
+
+# logs
+*.log
